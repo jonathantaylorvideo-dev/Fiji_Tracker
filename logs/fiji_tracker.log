@@ -1,0 +1,84 @@
+2026-07-26 16:37:11.724 | INFO     | __main__:main:36 - Starting Fiji Infrastructure Tracker application session.
+2026-07-26 16:37:12.942 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 16:37:13.950 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: {'message': "Could not find the table 'public.infrastructure' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-26 16:37:14.133 | INFO     | components.gis_renderer:render_gis_map:83 - Successfully rendered GIS map component.
+2026-07-26 16:40:33.311 | INFO     | __main__:main:36 - Starting Fiji Infrastructure Tracker application session.
+2026-07-26 16:40:34.637 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 16:40:35.326 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: {'message': "Could not find the table 'public.infrastructure' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-26 16:40:35.456 | INFO     | components.gis_renderer:render_gis_map:90 - Successfully rendered GIS map component with token-free basemap.
+2026-07-26 16:40:59.261 | INFO     | __main__:main:36 - Starting Fiji Infrastructure Tracker application session.
+2026-07-26 16:40:59.267 | INFO     | services.gemini_client:__init__:29 - GeminiVoiceParser initialized successfully.
+2026-07-26 16:40:59.722 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 16:41:03.084 | INFO     | __main__:main:36 - Starting Fiji Infrastructure Tracker application session.
+2026-07-26 16:41:03.533 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 16:41:04.124 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: {'message': "Could not find the table 'public.infrastructure' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-26 16:41:06.108 | INFO     | __main__:main:36 - Starting Fiji Infrastructure Tracker application session.
+2026-07-26 16:41:06.115 | INFO     | services.gemini_client:__init__:29 - GeminiVoiceParser initialized successfully.
+2026-07-26 16:41:06.530 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 16:49:48.317 | INFO     | __main__:main:36 - Starting Fiji Infrastructure Tracker application session.
+2026-07-26 16:49:49.792 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 16:49:50.640 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: {'message': "Could not find the table 'public.infrastructure' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-26 16:49:50.760 | INFO     | components.gis_renderer:render_gis_map:90 - Successfully rendered GIS map component with token-free basemap.
+2026-07-26 16:50:15.623 | INFO     | __main__:main:36 - Starting Fiji Infrastructure Tracker application session.
+2026-07-26 16:50:16.078 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 16:50:16.752 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: {'message': "Could not find the table 'public.infrastructure' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-26 16:50:18.824 | INFO     | __main__:main:36 - Starting Fiji Infrastructure Tracker application session.
+2026-07-26 16:50:18.829 | INFO     | services.gemini_client:__init__:29 - GeminiVoiceParser initialized successfully.
+2026-07-26 16:50:19.250 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 16:50:27.437 | INFO     | __main__:main:36 - Starting Fiji Infrastructure Tracker application session.
+2026-07-26 16:50:27.887 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 16:50:28.443 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: {'message': "Could not find the table 'public.infrastructure' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-26 16:50:28.458 | INFO     | components.gis_renderer:render_gis_map:90 - Successfully rendered GIS map component with token-free basemap.
+2026-07-26 17:02:53.961 | INFO     | __main__:main:36 - Starting Fiji Infrastructure Tracker application session.
+2026-07-26 17:02:55.738 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 17:02:56.672 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: {'message': "Could not find the table 'public.infrastructure' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2026-07-26 17:02:56.796 | INFO     | components.gis_renderer:render_gis_map:90 - Successfully rendered GIS map component with token-free basemap.
+2026-07-26 17:07:18.702 | INFO     | services.cache_manager:clear_caches:27 - Successfully cleared static metadata caches.
+2026-07-26 17:07:18.702 | INFO     | services.cache_manager:get_cached_metadata:14 - Cache miss for key: 'fiji_central_hub'. Loading static reference metadata.
+2026-07-26 17:07:18.998 | INFO     | services.gemini_client:__init__:29 - GeminiVoiceParser initialized successfully.
+2026-07-26 17:07:18.998 | INFO     | services.gemini_client:parse_transcript:52 - Invoking Gemini API for transcript parsing (Attempt 1/3)...
+2026-07-26 17:07:18.998 | INFO     | services.gemini_client:parse_transcript:64 - Successfully parsed and validated voice payload.
+2026-07-26 17:07:19.002 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 17:07:19.002 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: Database connection dropped
+2026-07-26 17:09:49.843 | INFO     | services.cache_manager:clear_caches:27 - Successfully cleared static metadata caches.
+2026-07-26 17:09:49.843 | INFO     | services.cache_manager:get_cached_metadata:14 - Cache miss for key: 'fiji_central_hub'. Loading static reference metadata.
+2026-07-26 17:09:49.851 | INFO     | services.gemini_client:__init__:29 - GeminiVoiceParser initialized successfully.
+2026-07-26 17:09:49.852 | INFO     | services.gemini_client:parse_transcript:52 - Invoking Gemini API for transcript parsing (Attempt 1/3)...
+2026-07-26 17:09:49.853 | INFO     | services.gemini_client:parse_transcript:64 - Successfully parsed and validated voice payload.
+2026-07-26 17:09:49.857 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 17:09:49.857 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: Database connection dropped
+2026-07-26 17:11:56.674 | INFO     | services.cache_manager:clear_caches:27 - Successfully cleared static metadata caches.
+2026-07-26 17:11:56.674 | INFO     | services.cache_manager:get_cached_metadata:14 - Cache miss for key: 'fiji_central_hub'. Loading static reference metadata.
+2026-07-26 17:11:56.682 | INFO     | services.gemini_client:__init__:29 - GeminiVoiceParser initialized successfully.
+2026-07-26 17:11:56.682 | INFO     | services.gemini_client:parse_transcript:52 - Invoking Gemini API for transcript parsing (Attempt 1/3)...
+2026-07-26 17:11:56.682 | INFO     | services.gemini_client:parse_transcript:64 - Successfully parsed and validated voice payload.
+2026-07-26 17:11:56.686 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 17:11:56.687 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: Database connection dropped
+2026-07-26 17:26:46.908 | INFO     | services.cache_manager:clear_caches:27 - Successfully cleared static metadata caches.
+2026-07-26 17:26:46.908 | INFO     | services.cache_manager:get_cached_metadata:14 - Cache miss for key: 'fiji_central_hub'. Loading static reference metadata.
+2026-07-26 17:26:46.924 | INFO     | services.gemini_client:__init__:29 - GeminiVoiceParser initialized successfully.
+2026-07-26 17:26:46.925 | INFO     | services.gemini_client:parse_transcript:52 - Invoking Gemini API for transcript parsing (Attempt 1/3)...
+2026-07-26 17:26:46.925 | INFO     | services.gemini_client:parse_transcript:64 - Successfully parsed and validated voice payload.
+2026-07-26 17:26:46.929 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 17:26:46.929 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: Database connection dropped
+2026-07-26 17:27:24.753 | INFO     | services.cache_manager:clear_caches:27 - Successfully cleared static metadata caches.
+2026-07-26 17:27:24.753 | INFO     | services.cache_manager:get_cached_metadata:14 - Cache miss for key: 'fiji_central_hub'. Loading static reference metadata.
+2026-07-26 17:27:24.767 | INFO     | services.gemini_client:__init__:29 - GeminiVoiceParser initialized successfully.
+2026-07-26 17:27:24.768 | INFO     | services.gemini_client:parse_transcript:52 - Invoking Gemini API for transcript parsing (Attempt 1/3)...
+2026-07-26 17:27:24.769 | INFO     | services.gemini_client:parse_transcript:64 - Successfully parsed and validated voice payload.
+2026-07-26 17:27:24.772 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 17:27:24.773 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: Database connection dropped
+2026-07-26 17:34:35.031 | INFO     | services.cache_manager:clear_caches:27 - Successfully cleared static metadata caches.
+2026-07-26 17:34:35.032 | INFO     | services.cache_manager:get_cached_metadata:14 - Cache miss for key: 'fiji_central_hub'. Loading static reference metadata.
+2026-07-26 17:34:35.051 | INFO     | services.gemini_client:__init__:29 - GeminiVoiceParser initialized successfully.
+2026-07-26 17:34:35.051 | INFO     | services.gemini_client:parse_transcript:52 - Invoking Gemini API for transcript parsing (Attempt 1/3)...
+2026-07-26 17:34:35.052 | INFO     | services.gemini_client:parse_transcript:64 - Successfully parsed and validated voice payload.
+2026-07-26 17:34:35.055 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 17:34:35.055 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: Database connection dropped
+2026-07-26 17:35:08.130 | INFO     | services.cache_manager:clear_caches:27 - Successfully cleared static metadata caches.
+2026-07-26 17:35:08.131 | INFO     | services.cache_manager:get_cached_metadata:14 - Cache miss for key: 'fiji_central_hub'. Loading static reference metadata.
+2026-07-26 17:35:08.150 | INFO     | services.gemini_client:__init__:29 - GeminiVoiceParser initialized successfully.
+2026-07-26 17:35:08.150 | INFO     | services.gemini_client:parse_transcript:52 - Invoking Gemini API for transcript parsing (Attempt 1/3)...
+2026-07-26 17:35:08.151 | INFO     | services.gemini_client:parse_transcript:64 - Successfully parsed and validated voice payload.
+2026-07-26 17:35:08.154 | INFO     | services.supabase_client:__init__:23 - Supabase client initialized successfully.
+2026-07-26 17:35:08.155 | ERROR    | services.supabase_client:fetch_all_assets:53 - Database fetch error: Database connection dropped

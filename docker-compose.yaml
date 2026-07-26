@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  fiji-tracker:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - STREAMLIT_SERVER_PORT=8501
+    env_file:
+      - .env
+    restart: unless-stopped

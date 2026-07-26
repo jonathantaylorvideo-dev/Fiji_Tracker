@@ -1,0 +1,18 @@
+Fiji_Tracker/
+├── .github/
+│   └── workflows/
+│       └── pytest.yml          # Automated CI pipeline
+├── components/                 # Streamlit UI components (GIS, Audio, Metrics)
+├── core/                       # Core configuration, logging, security
+├── docs/                       # Architecture Decision Records (ADRs) & specs
+├── models/                     # Pydantic data contracts (Infrastructure, Voice)
+├── reports/
+│   └── test_report.html        # Standalone self-contained test execution report
+├── services/                   # External clients (Gemini AI, Supabase, Cache)
+├── tests/                      # Full test suite (Cache, Models, Services, GIS, UI, Writes)
+├── utils/                      # Formatters and spatial geo-transforms
+├── views/                      # Streamlit view layers (Analytics, Dashboard, Ingestion)
+├── .env.example                # Environment configuration template
+├── app.py                      # Main Streamlit application entrypoint
+├── pyproject.toml              # Project packaging & dependencies
+└── README.md                   # Master project documentation
